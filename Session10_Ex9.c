@@ -29,8 +29,7 @@ int main(){
 	
 	for(i=0,j=0 ;i<m, j<n ;i++,j++){
 		printf("%d \n",arr[i][j]);
-			sum+=arr[i][j];
+		
 		}
 	
-		printf("Tong duong cheo chinh la: %d \n",sum);
 }
